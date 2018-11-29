@@ -1,0 +1,12 @@
+.greg_pic{
+  width:200px;
+}
+div {
+  display: inline-block;
+}
+
+p {
+  width: 300px;
+  margin: 0 0 0 300px;
+  vertical-align: top;
+}

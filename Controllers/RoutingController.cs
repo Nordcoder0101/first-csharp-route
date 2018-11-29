@@ -6,23 +6,23 @@ namespace portfolio
   {
     [HttpGet]
     [Route("")]
-    public string index()
+    public ViewResult Index()
     {
-    return "This is my index";
+    return View();
     }
 
     [HttpGet]
     [Route("/projects")]
-    public string projects()
+    public ViewResult projects()
     {
-      return "these are my projects";
+      return View();
     }
 
     [HttpGet]
     [Route("/contact")]
-    public string contact()
+    public ViewResult Contact()
     {
-      return "this is my contact";
+      return View();
     }
 
   }
