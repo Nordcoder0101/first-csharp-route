@@ -1,0 +1,14 @@
+/Users/greg/codingdojo/cSharp/portfolio/bin/Debug/netcoreapp2.1/portfolio.deps.json
+/Users/greg/codingdojo/cSharp/portfolio/bin/Debug/netcoreapp2.1/portfolio.runtimeconfig.json
+/Users/greg/codingdojo/cSharp/portfolio/bin/Debug/netcoreapp2.1/portfolio.runtimeconfig.dev.json
+/Users/greg/codingdojo/cSharp/portfolio/bin/Debug/netcoreapp2.1/portfolio.dll
+/Users/greg/codingdojo/cSharp/portfolio/bin/Debug/netcoreapp2.1/portfolio.pdb
+/Users/greg/codingdojo/cSharp/portfolio/obj/Debug/netcoreapp2.1/portfolio.csprojAssemblyReference.cache
+/Users/greg/codingdojo/cSharp/portfolio/obj/Debug/netcoreapp2.1/portfolio.csproj.CoreCompileInputs.cache
+/Users/greg/codingdojo/cSharp/portfolio/obj/Debug/netcoreapp2.1/portfolio.RazorAssemblyInfo.cache
+/Users/greg/codingdojo/cSharp/portfolio/obj/Debug/netcoreapp2.1/portfolio.RazorAssemblyInfo.cs
+/Users/greg/codingdojo/cSharp/portfolio/obj/Debug/netcoreapp2.1/portfolio.AssemblyInfoInputs.cache
+/Users/greg/codingdojo/cSharp/portfolio/obj/Debug/netcoreapp2.1/portfolio.AssemblyInfo.cs
+/Users/greg/codingdojo/cSharp/portfolio/obj/Debug/netcoreapp2.1/portfolio.RazorTargetAssemblyInfo.cache
+/Users/greg/codingdojo/cSharp/portfolio/obj/Debug/netcoreapp2.1/portfolio.dll
+/Users/greg/codingdojo/cSharp/portfolio/obj/Debug/netcoreapp2.1/portfolio.pdb
